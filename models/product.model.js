@@ -1,3 +1,10 @@
+/*
+File name: models/product.model.js
+Student Name: Janiel Mark Javier
+Student ID: 301379377
+Date: 06/17/2024
+*/
+
 var mongoose = require('mongoose');
 
 const ProductSchema = new mongoose.Schema({
